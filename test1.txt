@@ -1,2 +1,6 @@
 Hello git!
+<<<<<<< HEAD
 This file is edited on CAEN.
+=======
+This file is edited on mac.
+>>>>>>> 429c8315d611ed728af53e191ac2d064a28c3fe2
