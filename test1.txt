@@ -1,1 +1,2 @@
 Hello git!
+This file is edited on mac.
